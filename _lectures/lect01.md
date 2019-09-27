@@ -5,9 +5,9 @@ ready: true
 date: 2019-09-27 15:00:00.00-8:00
 ---
 
-# Orientation for all TAs and Tutors
+# Orientation for Tutors
 
-Expectations from TAs and tutors:
+Expectations from tutors:
 
 * Responsive: As a tutor you will be working with the instructor and the students. You are expected to respond to be respond appropriately and in a timely fashion (slack/Piazza/email)
 * Reliabile: This means showing up ON TIME to your scheduled lab hours, keeping up with your commitments and deadlines
