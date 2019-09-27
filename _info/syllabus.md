@@ -60,9 +60,10 @@ The course has three main components lectures, discussions and homeworks as desc
 
 * In <b>discussion sections</b> and <b>open lab hours</b> students will apply the content covered in lectures to mentor students in the context of either CS8 or CS56.  At the outset of the course, each student in CS190J will be assigned to one of these two courses where they will gain hands-on experience as “course mentors”. Students must attend one discussion section weekly that is co-located with the discussion section(s) of the course that they have been assigned to (either CS8 or CS56).  See the following sections on “Mentoring in the context of CS8/56” for more information.
 
-* There are two <b>projects</b>, each of which is worth 20% of your course grade.
-   * An observation of one-on-one tutoring by your supervising instructor
-   * A final paper summarizing your learning in the course.
+* There are three <b>projects</b>:
+   * An observation of one-on-one tutoring by your supervising instructor. (10%)
+   * Create homework / resource for specific course. (15%)
+   * A final paper summarizing your learning in the course. (15%)
    
    Each of these is discussed in more detail below.
 
