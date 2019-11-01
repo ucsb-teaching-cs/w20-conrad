@@ -2,7 +2,7 @@
 num: "Lecture 1"
 desc: "Orientation to the course"
 ready: true
-date: 2019-09-27 15:00:00.00-8:00
+date: 2019-09-27 14:00:00.00-8:00
 ---
 
 # Orientation for Tutors

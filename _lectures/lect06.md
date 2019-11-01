@@ -1,29 +1,50 @@
 ---
 num: "Lecture 6"
-desc: "Attitudes and mindset"
+desc: "Peer-led Debugging Session"
 ready: true
-date: 2019-11-08 15:00:00.00-8:00
+date: 2019-11-08 14:00:00.00-8:00
 ---
 
-# Preparing for lightning talks
+# Lesson plan
 
-Prepare a 5 minute talk about the research paper that you read and summarized in h02. 
+### What are we practicing?
 
+* Being welcoming, encouraging, and mindful of your tone and body language
+* Giving students the appropriate level of help
+* Helping students pick up cool debugging strategies
+* Use of visualizations, explanations and other techniques when appropriate
+* Managing your time (rule of thumb is to keep your interaction under 10 minutes, although depends on the context)
 
-# Creating a climate that supports the learning of all students
+### Structure of the session
 
-We will watch two videos by Colleen Lewis:
-* [encouraging students to seek help by Colleen Lewis](https://www.youtube.com/watch?v=J91iM8naM4o&index=8&list=PLHqz-wcqDQIEMMuXadwy90YxN2Qb4SrXT) 
-* [growth mindset by Carol Dweck](https://www.youtube.com/watch?v=isHM1rEd3GE)
-* [tips for reducing bias by Colleen Lewis](https://www.youtube.com/watch?v=f0KF3BBt1IY&index=1&list=PLHqz-wcqDQIEMMuXadwy90YxN2Qb4SrXT)
+Experienced tutors from multiple LD courses are invited to observe their peers tutoring to provide appropriate feedback. 
 
-We will then have a follow up discussion on this week's reading: [Twelve tips for creating a culture that supports all students in computing](https://inroads.acm.org/article.cfm?aid=3148524)
+Prior to the class we invite all tutors to submit the hardest questions they were asked so far related to concepts and code. Students submit buggy student-code prior to the class.
 
+The instructor collects all submissions and redacts any student-specific information. The sample code is organized in this git repo: [https://github.com/ucsb-cs190j-s19/buggycode-peer-review.git](https://github.com/ucsb-cs190j-s19/buggycode-peer-review.git)
 
-# Assisting students in contextualized discussions
-We will do a variation of one of the past activities which was explaining concepts using flashcards. This is activity will be done in small groups and between pairs who assume the role of (student - tutor). The student will pick a flashcard that has a technical question. In addition, the student will also pick a "context" card that gives some background about them and a desciption of what they really want to talk about as descibed in [this list](https://docs.google.com/document/d/1smEAOB8nIBjseuIFdg1UER0tT8wOiKPrJemfk6use-0/edit?usp=sharing).
+In class we'll have mini mock tutoring sessions. At the end of each session, all participants write short reflections and the experienced tutors provide helpful feedback
 
-The student will only ask the tutor the technical question. The tutor should ask appropriate questions to figure out what the student really wants to talk about.
+## Getting set up ( 5 minutes)
 
+* Form pairs
+* One experienced tutor leads each pair 
+* Clone the git repo that contains the practice code on your laptop or on CSIL: [https://github.com/ucsb-cs190j-s19/buggycode-peer-review.git](https://github.com/ucsb-cs190j-s19/buggycode-peer-review.git)
 
+## About the activity (5 to 10 minutes per student, 40 minutes)
+
+* One person assumes the role of a student, another that of a tutor. The others including the lead tutors are observers.
+* The student should start by picking one of the problems in the git-repo (choose an example problem in one of the directories). Don't pick a problem that ends with the tutor's name because they have contributed that problem, so they already know the bug. you may choose a problem that you contributed or go with one of the others.
+* The "student" should ask the tutor a question related to the code (see the README.txt for suggestions to get started). The tutor should appropriately engage with the student to help them solve the problem
+* Each interaction should nominally take 10 minutes. If the interaction ends in less than 5 minutes, the student should proceed to ask a second question.
+* Complete the relections and feedback described below. Please write your feedback
+* Switch roles and repeat
+
+### Reflections and feedback (10 minutes per student, 20 minutes total)
+
+* After each tutoring session, all the observers (including the lead tutor) should fill this form about the interaction [peer-review observation form](http://bit.ly/Peer-observation-form)
+
+* The student who assumed the role of a "tutor" should fill this reflection form: [190J-tutor reflection form](http://bit.ly/190J-tutor-reflection-form) 
+
+* The lead tutors go over the feedback in the observation form and summarize the feedback for the tutor
 

@@ -1,15 +1,23 @@
 ---
 num: "Lecture 7"
-desc: "Learning theories and their role in teaching"
+desc: "Growth Mindset"
 ready: true
-date: 2019-11-15 15:00:00.00-8:00
+date: 2019-11-15 14:00:00.00-8:00
 ---
 
-## Look ahead to upcoming assignments
+# Creating a climate that supports the learning of all students
 
-* H03: Shadow an experienced tutor: [https://ucsb-teaching-cs.github.io/w19/hwk/h03/](https://ucsb-teaching-cs.github.io/w19/hwk/h03/)
+We will watch two videos by Colleen Lewis:
+* [encouraging students to seek help by Colleen Lewis](https://www.youtube.com/watch?v=J91iM8naM4o&index=8&list=PLHqz-wcqDQIEMMuXadwy90YxN2Qb4SrXT) 
+* [growth mindset by Carol Dweck](https://www.youtube.com/watch?v=isHM1rEd3GE)
+* [tips for reducing bias by Colleen Lewis](https://www.youtube.com/watch?v=f0KF3BBt1IY&index=1&list=PLHqz-wcqDQIEMMuXadwy90YxN2Qb4SrXT)
 
-* Project 01: One-on-one teaching observations. Schedule your observation: [https://ucsb-teaching-cs.github.io/w19/hwk/proj01/](https://ucsb-teaching-cs.github.io/w19/hwk/proj01/)
+We will then have a follow up discussion on this week's reading: [Twelve tips for creating a culture that supports all students in computing](https://inroads.acm.org/article.cfm?aid=3148524)
+
+# Assisting students in contextualized discussions
+We will do a variation of one of the past activities which was explaining concepts using flashcards. This is activity will be done in small groups and between pairs who assume the role of (student - tutor). The student will pick a flashcard that has a technical question. In addition, the student will also pick a "context" card that gives some background about them and a desciption of what they really want to talk about as descibed in [this list](https://docs.google.com/document/d/1smEAOB8nIBjseuIFdg1UER0tT8wOiKPrJemfk6use-0/edit?usp=sharing).
+
+The student will only ask the tutor the technical question. The tutor should ask appropriate questions to figure out what the student really wants to talk about.
 
 ## What do CS teachers need to know?
 
@@ -24,7 +32,6 @@ Some questions to guide the discussion:
 * What does PCK mean to you?
 * Recall a time when one of your teachers used PCK in their teaching or to help you understand a concept.
 * Recall a time when you (as a tutor) have might have used PCK to assist a student? (Its likely that you didn't call it PCK!)
-
 
 ## Practice one on one explanations 
 
