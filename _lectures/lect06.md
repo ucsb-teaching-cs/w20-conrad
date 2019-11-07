@@ -24,12 +24,12 @@ In class we'll have mini mock tutoring sessions. At the end of each session, all
 ## About the activity (5 to 10 minutes per student)
 
 * Students will form groups of 4.
-* One person assumes the role of a student, another that of a tutor. The others in thee group (including the lead tutors / instructors) are observers.
+* One person assumes the role of a student, another that of a tutor. The others in the group (including the lead tutors / instructors) are observers.
 * The 190J tutor who submitted their version of buggy code will play the role of a student seeking assistance. Another 190J tutor will play the role of the tutor (unaware of what the bug is) and assist the "student" through their problem.
 * The "student" should ask the tutor a question related to the code. The tutor should appropriately engage with the student to help them solve the problem.
 * Each interaction should nominally take 10 minutes. If the interaction ends in less than 5 minutes, the student should proceed to ask a second question.
-* Complete the relections and feedback described below. Please write your feedback
-* Switch roles and repeat
+* Complete the reflections and feedback described below.
+* Switch roles and repeat.
 
 ### Reflections and feedback (5 minutes per student)
 
@@ -37,5 +37,5 @@ In class we'll have mini mock tutoring sessions. At the end of each session, all
 
 * The student who assumed the role of a "tutor" should fill this reflection form: [190J-tutor reflection form](https://forms.gle/dYmEu771ktzcRr417) 
 
-* The lead tutors go over the feedback in the observation form and summarize the feedback for the tutors
+* The lead tutors go over the feedback in the observation form and summarize the feedback for the tutors.
 
