@@ -1,6 +1,6 @@
 ---
 num: "Lecture 7"
-desc: "Growth Mindset"
+desc: "Imposter Syndrome and Growth Mindset"
 ready: true
 date: 2019-11-15 14:00:00.00-8:00
 ---
