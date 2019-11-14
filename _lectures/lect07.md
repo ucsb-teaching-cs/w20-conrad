@@ -20,8 +20,7 @@ date: 2019-11-15 14:00:00.00-8:00
 ## Resources
 * [Slides](https://drive.google.com/file/d/1XFEuJfkmWItG955V3r207b73Z1s0jgOG/view?usp=sharing)
 * [Short interview with Carol Dweck](https://www.youtube.com/watch?v=wh0OS4MrN3E) 
-* [Talk by Carol Dweck on research about growth mindset]
-(https://youtu.be/isHM1rEd3GE)
+* [Talk by Carol Dweck on research about growth mindset](https://youtu.be/isHM1rEd3GE)
 * [Growth mindset tutoring scenarios](https://docs.google.com/document/d/14MqNXnNILXkrohM4LKmXUK85RJMK9snDnWHo5dlIotQ/edit#heading=h.btog3na1b458)
 
 
