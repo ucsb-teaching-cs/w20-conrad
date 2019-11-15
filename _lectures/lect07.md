@@ -1,80 +1,31 @@
 ---
 num: "Lecture 7"
-desc: "Growth Mindset"
+desc: "Imposter Syndrome and Growth Mindset"
 ready: true
 date: 2019-11-15 14:00:00.00-8:00
 ---
 
-# Creating a climate that supports the learning of all students
+## Discuss Imposter Syndrome and Stereotype Threat
+* Define and give examples of each
+* Discuss contributing factors  
+* Discuss strategies to combat imposter syndrome and stereotype threat
 
-We will watch two videos by Colleen Lewis:
-* [encouraging students to seek help by Colleen Lewis](https://www.youtube.com/watch?v=J91iM8naM4o&index=8&list=PLHqz-wcqDQIEMMuXadwy90YxN2Qb4SrXT) 
-* [growth mindset by Carol Dweck](https://www.youtube.com/watch?v=isHM1rEd3GE)
-* [tips for reducing bias by Colleen Lewis](https://www.youtube.com/watch?v=f0KF3BBt1IY&index=1&list=PLHqz-wcqDQIEMMuXadwy90YxN2Qb4SrXT)
+## Growth Mindset and Self-Efficacy
+* What is growth mindset and why is it important?
+* How does the research support the idea of growth mindset?
+* What is self-efficacy and how is it related to mindset?
+* How can tutors promote a culture of growth mindset?
+ - Discuss tutoring scenarios
 
-We will then have a follow up discussion on this week's reading: [Twelve tips for creating a culture that supports all students in computing](https://inroads.acm.org/article.cfm?aid=3148524)
+## Resources
+* [Slides](https://drive.google.com/file/d/1XFEuJfkmWItG955V3r207b73Z1s0jgOG/view?usp=sharing)
+* [Short interview with Carol Dweck](https://www.youtube.com/watch?v=wh0OS4MrN3E) 
+* [Talk by Carol Dweck on research about growth mindset](https://youtu.be/isHM1rEd3GE)
+* [Growth mindset tutoring scenarios](https://docs.google.com/document/d/14MqNXnNILXkrohM4LKmXUK85RJMK9snDnWHo5dlIotQ/edit#heading=h.btog3na1b458)
 
-# Assisting students in contextualized discussions
-We will do a variation of one of the past activities which was explaining concepts using flashcards. This is activity will be done in small groups and between pairs who assume the role of (student - tutor). The student will pick a flashcard that has a technical question. In addition, the student will also pick a "context" card that gives some background about them and a desciption of what they really want to talk about as descibed in [this list](https://docs.google.com/document/d/1smEAOB8nIBjseuIFdg1UER0tT8wOiKPrJemfk6use-0/edit?usp=sharing).
 
-The student will only ask the tutor the technical question. The tutor should ask appropriate questions to figure out what the student really wants to talk about.
 
-## What do CS teachers need to know?
 
-We'll discuss the idea of pedagogical content knowledge (PCK) to try and its significance to being an effective teacher.
-
-Our starting point for the discussion is the following quote from the book "How people learn" (which you read as part of HW1), also referred to by Mark Guzdial on his [CSEducation Research blog](https://computinged.wordpress.com/2010/02/05/what-cs-teachers-know-pck-for-cs-ed/):
-
-**"Shulman (1986, 1987) argues that pedagogical content knowledge is not equivalent to knowledge of a content domain plus a generic set of teaching strategies; instead, teaching strategies differ across disciplines. Expert teachers know the kinds of difficulties that students are likely to face; they know how to tap into students’ existing knowledge in order to make new information meaningful; and they know how to assess their students’ progress"**
-
-Some questions to guide the discussion:
-
-* What does PCK mean to you?
-* Recall a time when one of your teachers used PCK in their teaching or to help you understand a concept.
-* Recall a time when you (as a tutor) have might have used PCK to assist a student? (Its likely that you didn't call it PCK!)
-
-## Practice one on one explanations 
-
-To practice, we will play a game that involves flash cards. Each flash card has a question or a concept that a student is confused about. The goal of the game is to 
-
-1. Practice explaining a concept in different ways, and as clearly as possible in 2 to 3 minutes
-
-2. Think about specific misunderstandings that a student may have related to that question.
-
-3. Refine your explanations based on your insights from 2.
-
-In line with these goals, we will do the following activity:
-* Break into small groups 5-6 students
-* First round: Take turns picking a flash card and reading it to your group
-* In the first round focus on explaining the same problem in different ways. Observe others and take notes about their explanation.
-* In the second round, repeat the same process as before and with the same topic. The person explaining a concept should additionally pick a "Tip card" and try to incorporate the tip in their interaction. 
-* Debrief
-
-## Practicing 1-on-1 explanations 
-
-* Explain the different uses of const in C++
-* How do I define a Python function?
-* What is all this unit testing stuff?
-* Explain return vs. print
-* Explain the git workflow add/commit/push
-* Why use git at all?
-* Explain C++ pointers
-* Explain recursion
-* Help - I don't understand all that command line stuff
-* How do Makefiles work?
-* What are .o files?
-* Explain  member functions and variables in C++ 
-* Explain the use of . vs ->
-* Re-explain reference vs de-referencing (& vs * ) and different use cases
-* How can I access a private member variable in a member function? Don't I need to declare it?
-* Why would a function be void?
-* Why do I need to compile my code everytime?
-* What is the difference between .h and .cpp files
-
-The  main goals for this session are:
-* practice explaining concepts in different ways
-* explore important elements of one-on-one interaction with student 
-(we will specifically focus on how to engage with students and promote discussion using a few techniques)
 
 
 
