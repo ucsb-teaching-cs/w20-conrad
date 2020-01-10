@@ -1,4 +1,12 @@
 ---
+num: Lecture 2
+lecture_date: 2020-01-16
+desc:
+ready: false
+pdfurl:
+---
+
+---
 num: "Lecture 2"
 desc: "Scenes from tutoring"
 ready: true

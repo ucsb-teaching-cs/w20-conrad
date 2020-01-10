@@ -1,4 +1,12 @@
 ---
+num: Lecture 4
+lecture_date: 2020-01-30
+desc:
+ready: false
+pdfurl:
+---
+
+---
 num: "Lecture 4"
 desc: "Assisting students with debugging"
 ready: true

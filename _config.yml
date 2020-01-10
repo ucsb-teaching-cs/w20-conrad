@@ -5,35 +5,37 @@ plugins:
 remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 
 url: https://ucsb-teaching-cs.github.io 
-baseurl: "/f19"  
-github_url: https://github.com/ucsb-teaching-cs/f19
+baseurl: "/w20-conrad"  
+github_url: https://github.com/ucsb-teaching-cs/w20-conrad
 
-title: "UCSB Teaching CS"
+title: "UCSB Teaching CS-Conrad"
 course: "CS190J"
-qtr: "F19"
-quarter: "Fall 2019"
+qtr: "W20"
+quarter: "Winter 2020"
 ta_list: ""
 ta_list_full: ""
-instructor: "Wang"
+instructor: "Conrad"
 
 
 start_week: 1
-start_date: 2019-09-22 
-num_weeks: 11
+start_date: 2020-01-05
+num_weeks: 10
 extra_exam_week: true
+
+lecture_days_of_week: R
 
 
 cal_dates: >
   [
-  {"label":"First day of Fall Quarter", "date":"2019-09-26" },
-  {"label":"Univ Holiday: Veterans' Day", "date":"2019-11-11" },
-  {"label":"Univ Holiday: Thanksgiving Break", "date":"2019-11-28" },
-  {"label":"Univ Holiday: Thanksgiving Break", "date":"2019-11-29" },
-  {"label":"Last day of instruction", "date":"2019-12-06" },
-  {"label":"Finals Begin", "date":"2019-12-07" },
-  {"label":"Finals End", "date":"2019-12-13" },
-  {"label":"Last day to drop (11pm)", "date":"2019-10-23" }
+    {"label":"W20 1st day of instruction", "date":"2020-01-06" },	
+    {"label":"Univ Holiday", "date":"2020-01-20" , "holiday": true},
+    {"label":"Univ Holiday", "date":"2020-02-17", "holiday": true},
+    {"label":"W20 instruction ends", "date":"2020-03-13" },
+    {"label":"W20 finals start", "date":"2020-03-14" },
+    {"label":"W20 finals end", "date":"2020-03-20" },
+    {"label":"W20 qtr ends", "date":"2020-03-20" }
   ]
+
 
 kramdown:
    parse_block_html: true

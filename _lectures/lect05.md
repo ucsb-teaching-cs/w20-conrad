@@ -1,4 +1,12 @@
 ---
+num: Lecture 5
+lecture_date: 2020-02-06
+desc:
+ready: false
+pdfurl:
+---
+
+---
 num: "Lecture 5"
 desc: "Academic Integrity"
 ready: true

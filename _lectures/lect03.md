@@ -1,4 +1,12 @@
 ---
+num: Lecture 3
+lecture_date: 2020-01-23
+desc:
+ready: false
+pdfurl:
+---
+
+---
 num: "Lecture 3"
 desc: "Practicing one on one explanations, CS Ed Research topics"
 ready: true

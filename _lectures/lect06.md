@@ -1,4 +1,12 @@
 ---
+num: Lecture 6
+lecture_date: 2020-02-13
+desc:
+ready: false
+pdfurl:
+---
+
+---
 num: "Lecture 6"
 desc: "Peer-led Debugging Session"
 ready: true

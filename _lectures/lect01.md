@@ -1,4 +1,12 @@
 ---
+num: Lecture 1
+lecture_date: 2020-01-09
+desc:
+ready: false
+pdfurl:
+---
+
+---
 num: "Lecture 1"
 desc: "Orientation to the course"
 ready: true

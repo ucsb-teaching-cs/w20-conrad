@@ -1,4 +1,12 @@
 ---
+num: Lecture 7
+lecture_date: 2020-02-20
+desc:
+ready: false
+pdfurl:
+---
+
+---
 num: "Lecture 7"
 desc: "Imposter Syndrome and Growth Mindset"
 ready: true
